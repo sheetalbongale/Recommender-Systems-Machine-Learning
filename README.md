@@ -1,13 +1,28 @@
-# Book-Recommender
-Exploring Recommender Systems using various Machine Learning Models. 
+# Building Recommender Systems with Machine Learning and AI
+Exploring Recommender Systems using various Machine Learning Models & Deep Learning.
 
 ### Models and Packages:
 ```
-- scikit-learn
+- Scikit-learn
 - Surprise: A Python scikit for building and analyzing recommender systems.
-- NLP recommendation engine
-- Collaborative Filtering Model with TensorFlow
+- Content-based filtering - NLP recommendation engine
+- Collaborative Filtering Model
+- Matrix factorization methods
+- Deep Learning & CNN
+- TensorFlow & Keras
+- Scaling with Apache Spark, Amazon DSSTNE, and AWS SageMaker
 ```
+## 1. Movie Recommender
+
+### Data
+
+MovieLens data sets were collected by the GroupLens Research Project at the University of Minnesota.
+
+This dataset (ml-latest-small) describes 5-star rating and free-text tagging activity from MovieLens, a movie recommendation service. It contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. 
+
+Users were selected at random for inclusion. All selected users had rated at least 20 movies. No demographic information is included. Each user is represented by an id, and no other information is provided.
+
+## 2. Book Recommender 
 
 ### Data
 
